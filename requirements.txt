@@ -1,7 +1,6 @@
-
-Flask
-Flask-Login
-Flask-SQLAlchemy
-Flask-Moment
-gunicorn
+Flask==3.1.1
+Flask-Login==0.6.3
+Flask-SQLAlchemy==3.1.1
+Flask-Moment==1.0.6
+gunicorn==23.0.0
 pandas>=2.0
