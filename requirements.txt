@@ -4,3 +4,4 @@ Flask-Login
 Flask-SQLAlchemy
 Flask-Moment
 gunicorn
+pandas>=2.0
